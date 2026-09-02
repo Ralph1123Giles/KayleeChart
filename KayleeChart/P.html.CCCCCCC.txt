@@ -1,0 +1,118 @@
+<html>
+<body>
+<div style="font-family: Segoe UI, Arial, sans-serif; background: #eef2f5; padding: 20px;">
+    <div style="background: #e4e8ec; border-radius: 6px 6px 0px 0px; padding: 15px; border: 1px solid #b8c2cc;">
+        <table style="width: 100%;">
+            <tbody>
+                <tr>
+                    <td style="width: 70%;">
+                        <div style="font-size: 26px; color: #333;">Robert Anderson</div>
+                        <div style="margin-top: 8px; font-size: 14px; color: #444;"><strong>MRN:</strong> 002648193 &nbsp; | &nbsp; <strong>DOB:</strong> 03/14/1954 &nbsp; | &nbsp; <strong>Age:</strong> 72 &nbsp; | &nbsp; <strong>Sex:</strong> Male</div>
+                        <div style="margin-top: 6px; font-size: 14px; color: #444;"><strong>Room:</strong> 214B &nbsp; | &nbsp; <strong>Code Status:</strong> Full Code &nbsp; | &nbsp; <strong>Hospital Day:</strong> 3</div>
+                    </td>
+                    <td style="text-align: right;">
+                        <div style="font-size: 14px;"><span style="background: #fff8cc; padding: 4px 10px; border-radius: 4px; border: 1px solid #d4c97d;"> Allergies: NKDA </span></div>
+                        <div style="margin-top: 8px; font-size: 13px; color: #666;">Medical-Surgical Unit</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div style="background: #d8dde3; border-left: 1px solid #b8c2cc; border-right: 1px solid #b8c2cc; padding: 8px 8px 0px; overflow-x: auto;"><span style="display: inline-block; background: white; border-width: 1px 1px medium; border-style: solid solid none; border-color: #b8c2cc #b8c2cc currentcolor; border-radius: 5px 5px 0px 0px; padding: 10px 18px; color: #004b87; cursor: pointer;"> Patient Summary </span> <span style="display: inline-block; background: #f4f4f4; border-width: 1px 1px medium; border-style: solid solid none; border-color: #b8c2cc #b8c2cc currentcolor; border-radius: 5px 5px 0px 0px; padding: 10px 18px; color: #444444; margin-left: 4px; cursor: pointer;"> <a title="History and Physical" href="https://cotc.instructure.com/courses/12956/pages/history-and-physical" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://cotc.instructure.com/api/v1/courses/12956/pages/history-and-physical" data-api-returntype="Page">History &amp; Physical</a> </span> <span style="display: inline-block; background: #f4f4f4; border-width: 1px 1px medium; border-style: solid solid none; border-color: #b8c2cc #b8c2cc currentcolor; border-radius: 5px 5px 0px 0px; padding: 10px 18px; color: #444444; margin-left: 4px; cursor: pointer;"> <a title="Orders" href="https://cotc.instructure.com/courses/12956/pages/orders" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://cotc.instructure.com/api/v1/courses/12956/pages/orders" data-api-returntype="Page">Orders</a> </span> <span style="display: inline-block; background: #f4f4f4; border-width: 1px 1px medium; border-style: solid solid none; border-color: #b8c2cc #b8c2cc currentcolor; border-radius: 5px 5px 0px 0px; padding: 10px 18px; color: #444444; margin-left: 4px; cursor: pointer;"> <a title="EMAR" href="https://cotc.instructure.com/courses/12956/pages/emar" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://cotc.instructure.com/api/v1/courses/12956/pages/emar" data-api-returntype="Page">eMAR</a> </span> <span style="display: inline-block; background: #f4f4f4; border-width: 1px 1px medium; border-style: solid solid none; border-color: #b8c2cc #b8c2cc currentcolor; border-radius: 5px 5px 0px 0px; padding: 10px 18px; color: #444444; margin-left: 4px; cursor: pointer;"> <a title="Vital Signs" href="https://cotc.instructure.com/courses/12956/pages/vital-signs" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://cotc.instructure.com/api/v1/courses/12956/pages/vital-signs" data-api-returntype="Page">Vital Signs</a> </span> <span style="display: inline-block; background: #f4f4f4; border-width: 1px 1px medium; border-style: solid solid none; border-color: #b8c2cc #b8c2cc currentcolor; border-radius: 5px 5px 0px 0px; padding: 10px 18px; color: #444444; margin-left: 4px; cursor: pointer;"> <a title="Labs-Final" href="https://cotc.instructure.com/courses/12956/pages/labs-2" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://cotc.instructure.com/api/v1/courses/12956/pages/labs-2" data-api-returntype="Page">Labs</a> </span> <span style="display: inline-block; background: #f4f4f4; border-width: 1px 1px medium; border-style: solid solid none; border-color: #b8c2cc #b8c2cc currentcolor; border-radius: 5px 5px 0px 0px; padding: 10px 18px; color: #444444; margin-left: 4px; cursor: pointer;"> <a title="Nursing Notes" href="https://cotc.instructure.com/courses/12956/pages/nursing-notes" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://cotc.instructure.com/api/v1/courses/12956/pages/nursing-notes" data-api-returntype="Page">Nursing Notes</a> </span> <span style="display: inline-block; background: #f4f4f4; border-width: 1px 1px medium; border-style: solid solid none; border-color: #b8c2cc #b8c2cc currentcolor; border-radius: 5px 5px 0px 0px; padding: 10px 18px; color: #444444; margin-left: 4px; cursor: pointer;"> <a title="Intake and Output" href="https://cotc.instructure.com/courses/12956/pages/intake-and-output" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://cotc.instructure.com/api/v1/courses/12956/pages/intake-and-output" data-api-returntype="Page">Intake &amp; Outpu</a>t </span> <span style="display: inline-block; background: #f4f4f4; border-width: 1px 1px medium; border-style: solid solid none; border-color: #b8c2cc #b8c2cc currentcolor; border-radius: 5px 5px 0px 0px; padding: 10px 18px; color: #444444; margin-left: 4px; cursor: pointer;"> <a title="Documentation" href="https://cotc.instructure.com/courses/12956/pages/documentation-2" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://cotc.instructure.com/api/v1/courses/12956/pages/documentation-2" data-api-returntype="Page">Documentation </a></span></div>
+    <div style="background: white; border-width: medium 1px 1px; border-style: none solid solid; border-color: currentcolor #b8c2cc #b8c2cc; padding: 25px;">
+        <table style="width: 100%; border-collapse: collapse;">
+            <tbody>
+                <tr>
+                    <td style="width: 28%;">
+                        <div style="background: #f7f8fa; padding: 15px; border-radius: 5px; border: 1px solid #d3d7dc;">
+                            <h3 style="margin-top: 0; color: #004b87;">Patient Snapshot</h3>
+                            <table style="width: 100%; font-size: 14px;">
+                                <tbody>
+                                    <tr>
+                                        <td><strong>Diagnosis</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Community-Acquired Pneumonia</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding-top: 10px;"><strong>Isolation</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>None</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding-top: 10px;"><strong>Diet</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Regular</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding-top: 10px;"><strong>Activity</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Up with Assistance</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding-top: 10px;"><strong>Primary Nurse</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Betty Joe, RN</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding-top: 10px;"><strong>Attending Provider</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Michael Thompson, MD</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </td>
+                    <td style="padding-left: 25px;">
+                        <h2 style="margin-top: 0; color: #004b87;">Patient Demographics</h2>
+                        <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
+                            <tbody>
+                                <tr style="background: #f3f5f7;">
+                                    <td style="padding: 10px;"><strong>Name</strong></td>
+                                    <td style="padding: 10px;">Robert Anderson</td>
+                                    <td style="padding: 10px;"><strong>DOB</strong></td>
+                                    <td style="padding: 10px;">03/14/1954</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px;"><strong>Age</strong></td>
+                                    <td style="padding: 10px;">72 years</td>
+                                    <td style="padding: 10px;"><strong>Sex</strong></td>
+                                    <td style="padding: 10px;">Male</td>
+                                </tr>
+                                <tr style="background: #f3f5f7;">
+                                    <td style="padding: 10px;"><strong>Height</strong></td>
+                                    <td style="padding: 10px;">178 cm (5'10")</td>
+                                    <td style="padding: 10px;"><strong>Weight</strong></td>
+                                    <td style="padding: 10px;">84 kg (185 lb)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px;"><strong>BMI</strong></td>
+                                    <td style="padding: 10px;">26.5</td>
+                                    <td style="padding: 10px;"><strong>Primary Language</strong></td>
+                                    <td style="padding: 10px;">English</td>
+                                </tr>
+                                <tr style="background: #f3f5f7;">
+                                    <td style="padding: 10px;"><strong>Religion</strong></td>
+                                    <td style="padding: 10px;">Methodist</td>
+                                    <td style="padding: 10px;"><strong>Marital Status</strong></td>
+                                    <td style="padding: 10px;">Married</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px;"><strong>Emergency Contact</strong></td>
+                                    <td style="padding: 10px;" colspan="3">Mary Anderson (Wife)<br />(555) 555-0184</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+</body>
+</html>
